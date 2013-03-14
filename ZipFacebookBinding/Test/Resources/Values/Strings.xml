@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="login_using_activity">Login using Activity</string>
+  <string name="login_using_custom_fragment">Login using Custom Fragment</string>
+  <string name="login_using_usersettingsfragment">Login using UserSettingsFragment</string>
+  <string name="hello">Hello World, SessionLoginSampleActivity!</string>
+  <string name="app_name">SessionLoginSample</string>
+  <string name="login">Login</string>
+  <string name="instructions">Login to create a link to fetch account data</string>
+  <string name="logout">Log out</string>
+  <string name="applicationId">323527627749193</string>
+  <string name="getMe">Query Me</string>
+</resources>
